@@ -50,38 +50,24 @@ Módulo 2: LPI 202
 	2.4 Implementando Nginx como servidor web y como proxy inverso 
 
 3.- Compartir ficheros
-
-3.1 Configuración del servidor Samba
-
-3.2 Configuración del servidor NFS 
+	3.1 Configuración del servidor Samba
+	3.2 Configuración del servidor NFS 
 
 4.- Gestión de redes de clientes
-
-4.1 Configuración de DHCP
-
-4.2 Autenticación PAM
-
-4.3 Clientes LDAP
-
-4.4 Configurando un servidor OpenLDAP 
+	4.1 Configuración de DHCP
+	4.2 Autenticación PAM
+	4.3 Clientes LDAP
+	4.4 Configurando un servidor OpenLDAP 
 
 5.- Servicios de E-Mail
-
-5.1 Utilizando servidores de E-mail
-
-5.2 Gestionar la entrega de E-Mail
-
-5.3 Gestionar el acceso al buzón de correo 
+	5.1 Utilizando servidores de E-mail
+	5.2 Gestionar la entrega de E-Mail
+	5.3 Gestionar el acceso al buzón de correo 
 
 6.- Seguridad del sistema
-
-6.1 Configurar un router
-
-6.2 Gestionar servidores FTP
-
-6.3 Secure shell (SSH)
-
-6.4 Tareas de seguridad
-
-6.5 OpenVPN
+	6.1 Configurar un router
+	6.2 Gestionar servidores FTP
+	6.3 Secure shell (SSH)
+	6.4 Tareas de seguridad
+	6.5 OpenVPN
 

@@ -12,64 +12,42 @@ Módulo 1: LPI 201
 	2.3 Gestionar el kernel en tiempo de ejecución y resolución de problemas 
 
 3.- Inicio del sistema
-
-3.1 Personalizar el Sistema de inicio
-
-3.2 Recuperación del sistema
-
-3.3 Sistemas de arranque alternativos 
+	3.1 Personalizar el Sistema de inicio
+	3.2 Recuperación del sistema
+	3.3 Sistemas de arranque alternativos 
 
 4.- Sistemas de archivos y dispositivos
-
-4.1 Manipular sistemas de archivos Linux
-
-4.2 Manteniendo sistemas de archivos Linux
-
-4.3 Creando y configurando opciones de sistemas de archivos 
+	4.1 Manipular sistemas de archivos Linux
+	4.2 Manteniendo sistemas de archivos Linux
+	4.3 Creando y configurando opciones de sistemas de archivos 
 
 5.- Administración avanzada de dispositivos de almacenamiento
-
-5.1 Configurando RAID
-
-5.2 Ajustando el acceso a dispositivos de almacenamiento
-
-5.3 Gestor de Volúmenes Lógicos 
+	5.1 Configurando RAID
+	5.2 Ajustando el acceso a dispositivos de almacenamiento
+	5.3 Gestor de Volúmenes Lógicos 
 
 6.- Configuración de red
-
-6.1 Configuración básica de red
-
-6.2 Configuración avanzada de red
-
-6.3 Resolviendo problemas de red 
+	6.1 Configuración básica de red
+	6.2 Configuración avanzada de red
+	6.3 Resolviendo problemas de red 
 
 7.- Mantenimiento del sistema
-
-7.1 Compilar e instalar programas desde el código fuente
-
-7.2 Operaciones de Backup
-
-7.3 Notificar a los usuarios sobre los problemas relacionados con el sistema
+	7.1 Compilar e instalar programas desde el código fuente
+	7.2 Operaciones de Backup
+	7.3 Notificar a los usuarios sobre los problemas relacionados con el sistema
 
 Módulo 2: LPI 202
 
  1.- Servidor de nombres de dominio (DNS)
-
-1.1 Configuración básica del servidor DNS
-
-1.2 Crear y mantener zonas DNS
-
-1.3 Aplicando seguridad a un servidor DNS 
+	1.1 Configuración básica del servidor DNS
+	1.2 Crear y mantener zonas DNS
+	1.3 Aplicando seguridad a un servidor DNS 
 
 2.- Servicios HTTP
-
-2.1 Configuración básica de Apache
-
-2.2 Configuración de Apache para HTTPS
-
-2.3 Implementando Squid como proxy cache
-
-2.4 Implementando Nginx como servidor web y como proxy inverso 
+	2.1 Configuración básica de Apache
+	2.2 Configuración de Apache para HTTPS
+	2.3 Implementando Squid como proxy cache
+	2.4 Implementando Nginx como servidor web y como proxy inverso 
 
 3.- Compartir ficheros
 
